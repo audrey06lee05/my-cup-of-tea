@@ -2,7 +2,7 @@
 # 🫖 My Cup of HK Tea - Beverage Shop
 ✨ This is a responsive beverage shop website that I made for My Cup of HK Tea. <br/>
 <br/>
-The website was deployed which can be found in this link: [https://mycupofhktea.co.uk/ ](https://mycupofhktea.co.uk/)  (domain under verification process so it does not work now)
+The website was deployed which can be found in this link: [https://mycupofhktea.co.uk/ ](https://mycupofhktea.co.uk/)  
 
 ## 🗣️ Language & Frameworks
 * React.JS
