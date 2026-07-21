@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-cup-of-HK-tea/static/css/main.47c010c0.css",
+    "main.js": "/my-cup-of-HK-tea/static/js/main.cf789048.js",
+    "static/js/453.ad8c656c.chunk.js": "/my-cup-of-HK-tea/static/js/453.ad8c656c.chunk.js",
+    "static/media/leeds-store.png": "/my-cup-of-HK-tea/static/media/leeds-store.fce1faa29f9fe6f9852c.png",
+    "static/media/lemon-tea.png": "/my-cup-of-HK-tea/static/media/lemon-tea.686d9fc621f1246db284.png",
+    "static/media/milktea.png": "/my-cup-of-HK-tea/static/media/milktea.1d213cd6443a82ed095d.png",
+    "static/media/egg-waffle.png": "/my-cup-of-HK-tea/static/media/egg-waffle.90d2969e42c078a4dace.png",
+    "static/media/menu-leeds.png": "/my-cup-of-HK-tea/static/media/menu-leeds.da4db85b94d482afb3e3.png",
+    "static/media/map.png": "/my-cup-of-HK-tea/static/media/map.d555d2e03eb40df2336d.png",
+    "static/media/menu-reading.png": "/my-cup-of-HK-tea/static/media/menu-reading.4427941bccfcb6a6a07f.png",
+    "static/media/trolley-coin.png": "/my-cup-of-HK-tea/static/media/trolley-coin.f874d42db182cde068f3.png",
+    "static/media/neon-light-hk.png": "/my-cup-of-HK-tea/static/media/neon-light-hk.b8c2fadda49bb0297b4c.png",
+    "static/media/logo.png": "/my-cup-of-HK-tea/static/media/logo.48ce103dbf7149eae3c2.png",
+    "index.html": "/my-cup-of-HK-tea/index.html",
+    "main.47c010c0.css.map": "/my-cup-of-HK-tea/static/css/main.47c010c0.css.map",
+    "main.cf789048.js.map": "/my-cup-of-HK-tea/static/js/main.cf789048.js.map",
+    "453.ad8c656c.chunk.js.map": "/my-cup-of-HK-tea/static/js/453.ad8c656c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c010c0.css",
+    "static/js/main.cf789048.js"
+  ]
+}
